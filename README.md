@@ -2,7 +2,7 @@
     <p><img src="https://user-images.githubusercontent.com/55429132/151303107-f027043d-075b-4ec3-92e2-e7d6c94f966f.png" style="width: 250px"></p>
     <p><strong>Hi, I'm Christy. 🌱</strong></p>
     <p>I'm a budding software engineer looking to make my foray into the tech space.</p>
-    <p>I used to work in ecommerce and fashion marketing, but now my dream is<p>
+    <p>I used to work in fashion marketing and ecommerce, but now my dream is<p>
     <p>to build applications that bring some joy and positivity to the world.</p>
     <p>✨ ✨ ✨</p>
     <p><strong>Languages</strong></p>
