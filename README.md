@@ -25,7 +25,7 @@
     <p></p>
     <p>✨ ✨ ✨</p>
     <p><strong>Let's collaborate!</strong></p>
-    <p>📫 christy.w.chen@gmail.com</p>
+    <p>📫 <a href="mailto:christy.w.chen@gmail.com">christy.w.chen@gmail.com</a></p>
     
   <samp>
 </div>
