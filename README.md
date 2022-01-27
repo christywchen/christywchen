@@ -20,7 +20,7 @@
     <img src="https://img.shields.io/badge/-React-44c3e5">
     <img src="https://img.shields.io/badge/-Redux-7649bb">
     <img src="https://img.shields.io/badge/-Flask-7a7a7a">
-    <img src="https://img.shields.io/badge/-SQLAlchemy.js-d71f00">
+    <img src="https://img.shields.io/badge/-SQLAlchemy-d71f00">
     <img src="https://img.shields.io/badge/-PugJS-72493f">
     <p></p>
     <p>✨ ✨ ✨</p>
