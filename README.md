@@ -24,7 +24,7 @@
     <img src="https://img.shields.io/badge/-PugJS-72493f">
     <p></p>
     <p>✨ ✨ ✨</p>
-    <p><strong>Let's work together!</strong></p>
+    <p><strong>Let's collaborate!</strong></p>
     <p>📫 christy.w.chen@gmail.com</p>
     
   <samp>
