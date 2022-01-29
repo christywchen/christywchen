@@ -1,5 +1,5 @@
 <div align="center">
-    <p><a href="#"><img src="https://user-images.githubusercontent.com/55429132/151649818-bfac2923-e3d1-48e7-8eb8-c2f4e9290d90.png" style="width: 250px"></a></p>
+    <p><a href="#"><img src="https://user-images.githubusercontent.com/55429132/151649964-69c892eb-58a3-43c1-84ce-3b795ca30e34.png" style="width: 250px"></a></p>
     <p><strong>Hi, I'm Christy. 🌱</strong></p>
     <p>I'm a budding software engineer making my foray into the tech space.</p>
     <p>I used to work in fashion marketing and ecommerce, but now my dream is<p>
