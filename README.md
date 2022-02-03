@@ -22,6 +22,7 @@
     <a href="#"><img src="https://img.shields.io/badge/-Flask-7a7a7a"></a>
     <a href="#"><img src="https://img.shields.io/badge/-SQLAlchemy-d71f00"></a>
     <a href="#"><img src="https://img.shields.io/badge/-PugJS-72493f"></a>
+    <a href="#"><img src="https://img.shields.io/badge/-Docker-03afef"></a>
     <p></p>
     <p>✨ ✨ ✨</p>
     <p><strong>Let's collaborate!</strong></p>
