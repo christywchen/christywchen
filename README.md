@@ -18,6 +18,7 @@
     <a href="#"><img src="https://img.shields.io/badge/-PostgreSQL-336791"></a>
     <a href="#"><img src="https://img.shields.io/badge/-Sequelize.js-03afef"></a>
     <a href="#"><img src="https://img.shields.io/badge/-React-44c3e5"></a>
+    <br>
     <a href="#"><img src="https://img.shields.io/badge/-Redux-7649bb"></a>
     <a href="#"><img src="https://img.shields.io/badge/-Flask-7a7a7a"></a>
     <a href="#"><img src="https://img.shields.io/badge/-SQLAlchemy-d71f00"></a>
