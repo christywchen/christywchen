@@ -3,7 +3,7 @@
     <p><strong>Hi, I'm Christy. 🌱</strong></p>
     <p>I'm a budding software engineer making my foray into the tech space.</p>
     <p>I used to work in fashion marketing and ecommerce, but now my dream is<p>
-    <p>to build applications that bring joy and positivity to the lives of others.</p>
+    <p>to build full-stack applications that bring joy and positivity to the lives of others.</p>
     <p>✨ ✨ ✨</p>
     <p><strong>Languages</strong></p>
     <a href="#"><img src="https://img.shields.io/badge/-JavaScript-yellow"></a>
