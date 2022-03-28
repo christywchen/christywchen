@@ -5,6 +5,9 @@
     <p>I used to work in fashion marketing and ecommerce, but now my dream is<p>
     <p>to build full-stack applications that bring joy and positivity to the lives of others.</p>
     <p>✨ ✨ ✨</p>
+    <p><strong>Projects</strong></p>
+    <p>Go <a href="https://www.christychen.com" target="_blank">here</a> for a brief summary of my work.</p>
+    <p>✨ ✨ ✨</p>
     <p><strong>Languages</strong></p>
     <a href="#"><img src="https://img.shields.io/badge/-JavaScript-yellow"></a>
     <a href="#"><img src="https://img.shields.io/badge/-Python-3770a0"></a>
@@ -27,7 +30,7 @@
     <a href="#"><img src="https://img.shields.io/badge/-Docker-03afef"></a>
     <p></p>
     <p>✨ ✨ ✨</p>
-    <p><strong>Let's collaborate!</strong></p>
+    <p><strong>Let's connect!</strong></p>
     <p>📫 <a href="mailto:christy.w.chen@gmail.com">christy.w.chen@gmail.com</a></p>
     
   <samp>
