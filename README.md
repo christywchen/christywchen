@@ -6,7 +6,7 @@
     <p>to build full-stack applications that bring joy and positivity to the lives of others.</p>
     <p>✨ ✨ ✨</p>
     <p><strong>Projects</strong></p>
-    <p>Go <a href="https://www.christychen.com" target="_blank">here</a> for a brief summary of my work.</p>
+    <p>Visit my <a href="https://www.christychen.com" target="_blank">portfolio</a> for a brief summary of my projects.</p>
     <p>✨ ✨ ✨</p>
     <p><strong>Languages</strong></p>
     <a href="#"><img src="https://img.shields.io/badge/-JavaScript-yellow"></a>
