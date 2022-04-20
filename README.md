@@ -2,11 +2,11 @@
     <p><a href="#"><img src="https://user-images.githubusercontent.com/55429132/151649964-69c892eb-58a3-43c1-84ce-3b795ca30e34.png" style="width: 250px"></a></p>
     <p><strong>Hi, I'm Christy. 🌱</strong></p>
     <p>I'm a software engineer making my foray into the tech space.</p>
-    <p>In the past, I worked in fashion marketing and ecommerce,<p>
-    <p>and now I build applications to create a positive impact.</p>
+    <p>As a former digital marketer and ecommerce specialist, I love helping brands grow.<p>
+    <p>Now, I build applications to create a positive impact.</p>
     <p>✨ ✨ ✨</p>
     <p><strong>Projects</strong></p>
-    <p>Visit my <a href="https://www.christychen.com" target="_blank">portfolio</a> for a brief summary of my projects.</p>
+    <p>Visit my <a href="https://www.christychen.com" target="_blank">portfolio</a> for a brief summary of my work.</p>
     <p>✨ ✨ ✨</p>
     <p><strong>Languages</strong></p>
     <a href="#"><img src="https://img.shields.io/badge/-JavaScript-yellow"></a>
