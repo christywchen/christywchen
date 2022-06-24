@@ -3,7 +3,7 @@
     <p><strong>Hi, I'm Christy. 🌱</strong></p>
     <p>I'm a software engineer making my foray into the tech space.</p>
     <p>As a former digital marketer and ecommerce specialist, I love helping brands grow.<p>
-    <p>Now, I build applications to create a positive impact.</p>
+    <p>Now, I code to make a positive impact.</p>
     <p>✨ ✨ ✨</p>
     <p><strong>Projects</strong></p>
     <p>Visit my <a href="https://www.christychen.com" target="_blank">portfolio</a> for a brief summary of my work.</p>
