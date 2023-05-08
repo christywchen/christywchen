@@ -5,10 +5,8 @@
     <p>As a former digital marketer and ecommerce specialist, I love helping brands grow.<p>
     <p>Now, I code to make a positive impact.</p>
     <p>✨ ✨ ✨</p>
-    <p><strong>Projects</strong></p>
-    <p>Visit my <a href="https://www.christychen.com" target="_blank">portfolio</a> for a brief summary of my work.</p>
-    <p>✨ ✨ ✨</p>
     <p><strong>Languages</strong></p>
+    <a href="#"><img src="https://img.shields.io/badge/-Java-blue"></a>
     <a href="#"><img src="https://img.shields.io/badge/-JavaScript-yellow"></a>
     <a href="#"><img src="https://img.shields.io/badge/-Python-3770a0"></a>
     <a href="#"><img src="https://img.shields.io/badge/-HTML5-f16529"></a>
@@ -16,6 +14,7 @@
     <p></p>
     <p>✨ ✨ ✨</p>
     <p><strong>Technologies</strong></p>
+    <a href="#"><img src="https://img.shields.io/badge/-Spring-green"></a>
     <a href="#"><img src="https://img.shields.io/badge/-Node.js-689f63"></a>
     <a href="#"><img src="https://img.shields.io/badge/-Express.js-yellow"></a>
     <a href="#"><img src="https://img.shields.io/badge/-PostgreSQL-336791"></a>
