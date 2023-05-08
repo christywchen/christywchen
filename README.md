@@ -31,6 +31,7 @@
     <p>✨ ✨ ✨</p>
     <p><strong>Let's connect!</strong></p>
     <p>📫 <a href="mailto:christy.w.chen@gmail.com">christy.w.chen@gmail.com</a></p>
+    <p>📫 <a href="https://www.linkedin.com/in/christywchen/">linkedin</a></p>
     
   <samp>
 </div>
