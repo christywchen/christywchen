@@ -27,6 +27,7 @@
     <a href="#"><img src="https://img.shields.io/badge/-PugJS-72493f"></a>
     <a href="#"><img src="https://img.shields.io/badge/-Jinja-3a3b3b"></a>
     <a href="#"><img src="https://img.shields.io/badge/-Docker-03afef"></a>
+    <a href="#"><img src="https://img.shields.io/badge/-AWS S3-gray"></a>
     <p></p>
     <p>✨ ✨ ✨</p>
     <p><strong>Let's connect!</strong></p>
